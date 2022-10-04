@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
+//Creo mi esquema de tablas para mi base de MongoDB
 const ProductSchema = new Schema({
   id: {
     type: String,

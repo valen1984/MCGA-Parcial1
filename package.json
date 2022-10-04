@@ -1,0 +1,25 @@
+{
+  "name": "mcga-parcial1",
+  "version": "1.0.0",
+  "description": "Parcial 1 Backend\r MCGA - Valentín Alvarez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valen1984/MCGA-Parcial1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valen1984/MCGA-Parcial1/issues"
+  },
+  "homepage": "https://github.com/valen1984/MCGA-Parcial1#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.6.3",
+    "nodemon": "^2.0.20"
+  }
+}
